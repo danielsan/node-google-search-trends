@@ -6,7 +6,7 @@
   "author": "Antriksh Yadav <antrikshy@gmail.com> (http://antrikshy.com/)",
   "license": "MIT",
   "dependencies": {
-    "xml2js": "^0.4.6"
+    "xml2js": "^0.5.0"
   },
   "repository": {
     "type": "git",
